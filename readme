@@ -1,2 +1,3 @@
 npm install @stitches/react
 npm install keen-slider
+npm i stripe
